@@ -1,4 +1,4 @@
-# CSE 507 Ark+ Container
+# Ark+ Container
 
 This repository contains modified Ark+ code for CSE 507. A container for this code is also provided, and can be downloaded by running the following command from the root of the repository:
 
